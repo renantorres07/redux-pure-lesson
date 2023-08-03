@@ -1,0 +1,6 @@
+{
+    "files.autoSave": "afterDelay",
+    "editor.fontFamily": "Fira Code, monospace",
+    "editor.tabSize": 2,
+    "editor.suggest.preview": true
+}
